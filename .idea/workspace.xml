@@ -13,24 +13,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +67,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28_4" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-09T13:18:15.218Z" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/pluralsight/candycoded/BuildConfig.java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Dependencies" />
@@ -94,6 +84,22 @@
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunManager" selected="Android App.app">
+    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -113,6 +119,21 @@
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.pluralsight.candycoded in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -172,9 +193,13 @@
     <list>
       <item itemvalue="Android App.app" />
       <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super" />
+      <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
+      <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
+        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super" />
       </list>
     </recent_temporary>
@@ -203,10 +228,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1601512708241" />
-    <state x="317" y="182" key="#PSD" timestamp="1601514139954">
+    <state x="392" y="88" key="#Notifications" timestamp="1602251910166">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="317" y="182" key="#PSD/0.0.1600.860@0.0.1600.860" timestamp="1601514139954" />
+    <state x="392" y="88" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1602251910166" />
+    <state x="317" y="182" key="#PSD" timestamp="1602506353548">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="317" y="182" key="#PSD/0.0.1600.860@0.0.1600.860" timestamp="1602506353548" />
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601477676501">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -223,30 +252,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="480" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1601480476964" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1601516337400">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1602506668085">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601516337400" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1602506668085" />
     <state x="580" y="152" key="FileChooserDialogImpl" timestamp="1601480861438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="152" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601480861438" />
-    <state width="1557" height="151" key="GridCell.Tab.0.bottom" timestamp="1601516443708">
+    <state width="1327" height="201" key="GridCell.Tab.0.bottom" timestamp="1602504982046">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="151" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601516443708" />
-    <state width="1557" height="151" key="GridCell.Tab.0.center" timestamp="1601516443708">
+    <state width="1327" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602504982046" />
+    <state width="1327" height="201" key="GridCell.Tab.0.center" timestamp="1602504982045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="151" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601516443708" />
-    <state width="1557" height="151" key="GridCell.Tab.0.left" timestamp="1601516443707">
+    <state width="1327" height="201" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602504982045" />
+    <state width="1327" height="201" key="GridCell.Tab.0.left" timestamp="1602504982011">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="151" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601516443707" />
-    <state width="1557" height="151" key="GridCell.Tab.0.right" timestamp="1601516443708">
+    <state width="1327" height="201" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602504982011" />
+    <state width="1327" height="201" key="GridCell.Tab.0.right" timestamp="1602504982045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="151" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601516443708" />
+    <state width="1327" height="201" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602504982045" />
     <state x="375" y="56" key="RollbackChangesDialog" timestamp="1601516190892">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -259,6 +288,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="476" y="274" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1601480737309" />
+    <state x="535" y="295" key="psd.add.jar.dependency.panel.dimension" timestamp="1602506340538">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="295" key="psd.add.jar.dependency.panel.dimension/0.0.1600.860@0.0.1600.860" timestamp="1602506340538" />
+    <state x="376" y="189" key="psd.add.library.dependency.panel.dimension" timestamp="1602249377081">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="376" y="189" key="psd.add.library.dependency.panel.dimension/0.0.1600.860@0.0.1600.860" timestamp="1602249377081" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1601511665744">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

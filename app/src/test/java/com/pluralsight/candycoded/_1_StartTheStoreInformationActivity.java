@@ -32,7 +32,7 @@ public class _1_StartTheStoreInformationActivity {
 
     // Mockito setup
     @BeforeClass
-    public static void setup() throws Exception {
+    public static void setup() {
         // Spy on a MainActivity instance.
         activity = PowerMockito.spy(new MainActivity());
         // Create a fake Bundle to pass in.
@@ -89,26 +89,26 @@ public class _1_StartTheStoreInformationActivity {
     }
 
     @Test
-    public void mainactivity_onoptionitemselected_return_super() throws Exception {
+    public void mainactivity_onoptionitemselected_return_super() {
         override_mainactivity_onoptionitemselected();
         assertFalse("onOptionsItemSelected() does not return call to super.", onOptionsItemSelected_result);
     }
 
     @Test
-    public void create_intent_infoactivity() throws Exception {
+    public void create_intent_infoactivity() {
         override_mainactivity_onoptionitemselected();
         assertTrue("The Intent was not created.", called_Intent);
         assertTrue("The Intent was created but with the wrong parameters. @intent-infoactivity", called_Intent_correctly);
     }
 
     @Test
-    public void startactivity_infoactivity() throws Exception {
+    public void startactivity_infoactivity() {
         override_mainactivity_onoptionitemselected();
         assertTrue("The method startActivity() was not called.", called_startActivity);
     }
 
     @Test
-    public void override_mainactivity_onoptionitemselected() throws Exception {
+    public void override_mainactivity_onoptionitemselected() {
         // Determine if the method OnOptionsItemSelected() is implemented in MainActivity
         // or just in the Base class
         Class<?> myClass = null;

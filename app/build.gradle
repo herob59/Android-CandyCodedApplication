@@ -5,7 +5,7 @@ android {
     buildToolsVersion '30.0.2'
     defaultConfig {
         applicationId "com.pluralsight.candycoded"
-        minSdkVersion 24
+        minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -27,7 +27,7 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
     implementation 'com.loopj.android:android-async-http:1.4.9'
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'com.squareup.picasso:picasso:2.71828'
@@ -43,4 +43,5 @@ dependencies {
     implementation "org.powermock:powermock-api-mockito2:1.7.1"
     implementation "org.powermock:powermock-core:1.7.1"
     implementation 'org.robolectric:robolectric:4.4'
+
 }

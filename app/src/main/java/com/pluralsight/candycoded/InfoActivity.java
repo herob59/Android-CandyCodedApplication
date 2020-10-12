@@ -16,8 +16,10 @@ public class InfoActivity extends AppCompatActivity {
         setContentView(R.layout.activity_info);
 
         Uri uri = Uri.parse("android.resource://com.pluralsight.candycoded/" + R.drawable.store_front);
+
         ImageView candyStoreImageView = findViewById(R.id.image_view_candy_store);
-        Picasso.with(this).
+
+        Picasso.get().
                 load(uri).
                 into(candyStoreImageView);
 
