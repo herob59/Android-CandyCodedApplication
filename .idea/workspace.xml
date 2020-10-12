@@ -12,7 +12,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +78,7 @@
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -222,10 +225,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="88" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1602251910166" />
-    <state x="317" y="182" key="#PSD" timestamp="1602506353548">
+    <state x="317" y="182" key="#PSD" timestamp="1602511151397">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="317" y="182" key="#PSD/0.0.1600.860@0.0.1600.860" timestamp="1602506353548" />
+    <state x="317" y="182" key="#PSD/0.0.1600.860@0.0.1600.860" timestamp="1602511151397" />
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601477676501">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -250,22 +253,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="152" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601480861438" />
-    <state width="1327" height="253" key="GridCell.Tab.0.bottom" timestamp="1602509520287">
+    <state width="1327" height="201" key="GridCell.Tab.0.bottom" timestamp="1602510449240">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1327" height="253" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602509520287" />
-    <state width="1327" height="253" key="GridCell.Tab.0.center" timestamp="1602509520287">
+    <state width="1327" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602510449240" />
+    <state width="1327" height="201" key="GridCell.Tab.0.center" timestamp="1602510449239">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1327" height="253" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602509520287" />
-    <state width="1327" height="253" key="GridCell.Tab.0.left" timestamp="1602509520287">
+    <state width="1327" height="201" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602510449239" />
+    <state width="1327" height="201" key="GridCell.Tab.0.left" timestamp="1602510449239">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1327" height="253" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602509520287" />
-    <state width="1327" height="253" key="GridCell.Tab.0.right" timestamp="1602509520287">
+    <state width="1327" height="201" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602510449239" />
+    <state width="1327" height="201" key="GridCell.Tab.0.right" timestamp="1602510449240">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1327" height="253" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602509520287" />
+    <state width="1327" height="201" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602510449240" />
     <state width="1327" height="253" key="GridCell.Tab.1.bottom" timestamp="1602509520288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -294,10 +297,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="476" y="274" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1601480737309" />
-    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602509886778">
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602511270136">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1602509886778" />
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1602511270136" />
     <state x="535" y="295" key="psd.add.jar.dependency.panel.dimension" timestamp="1602506340538">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

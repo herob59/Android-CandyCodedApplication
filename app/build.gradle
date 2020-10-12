@@ -36,7 +36,7 @@ dependencies {
     implementation 'androidx.test.espresso:espresso-intents:3.3.0'
     implementation 'androidx.annotation:annotation:1.1.0'
 
-    implementation 'junit:junit:4.13'
+    implementation 'junit:junit:4.13.1'
     implementation 'com.github.javaparser:javaparser-core:3.0.1'
     //testCompile "org.mockito:mockito-core:2.+"
     implementation "org.powermock:powermock-module-junit4:1.7.1"
