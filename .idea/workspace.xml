@@ -12,10 +12,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +42,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -244,10 +242,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="480" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1601480476964" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1602506668085">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1602509954317">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1602506668085" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1602509954317" />
     <state x="580" y="152" key="FileChooserDialogImpl" timestamp="1601480861438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -296,6 +294,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="476" y="274" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1601480737309" />
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602509886778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1602509886778" />
     <state x="535" y="295" key="psd.add.jar.dependency.panel.dimension" timestamp="1602506340538">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -308,9 +310,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1601511665744" />
-    <state x="456" y="82" width="670" height="676" key="search.everywhere.popup" timestamp="1601478049421">
+    <state x="456" y="82" width="672" height="676" key="search.everywhere.popup" timestamp="1602509999575">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="456" y="82" width="670" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1601478049421" />
+    <state x="456" y="82" width="672" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1602509999575" />
   </component>
 </project>
